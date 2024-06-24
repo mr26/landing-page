@@ -91,3 +91,20 @@ nav ul li a:hover {
     display: block;
     margin: 0 auto; 
 }
+
+#gallery {
+    text-align: center;
+    padding: 60px 40px;
+    background-color: #ffffff;
+    color: #333333;
+}
+
+.image-container {
+    display: inline-block;
+    margin: 10px;
+}
+
+.image-container img {
+    max-width: 100%;
+    height: auto;
+}
