@@ -1,7 +1,7 @@
 header {
     display: flex;
     justify-content: space-between;
-    align-items: center
+    align-items: center;
 
 }
 
@@ -13,4 +13,9 @@ header h1 {
 header nav.top-right {
     font-size: 18px;
     color: #E5E7Eb;
+    display: flex;
+}
+
+#section1 {
+    background-color: #1F2937;
 }
