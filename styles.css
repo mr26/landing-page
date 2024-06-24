@@ -2,6 +2,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background-color: #1F2937;
 
 }
 
@@ -54,7 +55,7 @@ nav ul li a:hover {
     background-color: #1E90FF;
     border: none;
     color: #F9FAF8;
-    padding: 15px 32px;
+    padding: 10px 22px;
     text-align: center;
     text-decoration: none;
 }
