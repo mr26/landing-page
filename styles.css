@@ -1,3 +1,10 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
 header {
     display: flex;
     justify-content: space-between;
@@ -42,6 +49,7 @@ nav ul li a:hover {
     display: flex;
     justify-content: space-between;
     margin: 0;
+    padding: 100px 40px;
 }
 
 #center-left {
@@ -57,6 +65,7 @@ nav ul li a:hover {
 #center-left p {
     font-size: 18px;
     color: #E5E7Eb;
+    margin: 20px 0;
 
 }
 
@@ -70,5 +79,11 @@ nav ul li a:hover {
 }
 
 #center-right {
-    display: flex;
+    flex: 1;
+    text-align: center;
+}
+
+#center-right img {
+    max-width: 100%;
+    height: auto;
 }
