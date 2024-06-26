@@ -97,14 +97,17 @@ nav ul li a:hover {
     padding: 60px 40px;
     background-color: #ffffff;
     color: #333333;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .image-container {
-    display: inline-block;
+    flex: 0 1 150px;
     margin: 10px;
 }
 
 .image-container img {
-    max-width: 100%;
+    width: 100%;
     height: auto;
 }
