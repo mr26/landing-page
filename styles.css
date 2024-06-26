@@ -97,6 +97,16 @@ nav ul li a:hover {
     background-color: #ffffff;
     color: #333333;
     display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#gallery h1 {
+    margin-bottom: 20px;
+}
+
+.image-wrapper {
+    display: flex;
     flex-wrap: wrap;
     justify-content: center;
 }
@@ -108,5 +118,6 @@ nav ul li a:hover {
 
 .image-container img {
     width: 100%;
+    max-width: 100%;
     height: auto;
 }
