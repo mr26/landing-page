@@ -128,3 +128,10 @@ nav ul li a:hover {
     background-color: #E5E7EB;
     padding: 60px 40px;
 }
+
+#section3 blockquote {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 800;
+    font-style: italic;
+}
