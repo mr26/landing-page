@@ -93,7 +93,6 @@ nav ul li a:hover {
 }
 
 #gallery {
-    text-align: center;
     padding: 60px 40px;
     background-color: #ffffff;
     color: #333333;
@@ -103,7 +102,7 @@ nav ul li a:hover {
 }
 
 .image-container {
-    flex: 0 1 150px;
+    flex: 0 1 250px;
     margin: 10px;
 }
 
