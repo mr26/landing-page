@@ -112,8 +112,8 @@ nav ul li a:hover {
 }
 
 .image-container {
-    flex: 0 1 400px;
-    margin: 10px;
+    flex: 0 1 600px;
+    margin: 20px;
 }
 
 .image-container img {
