@@ -153,14 +153,6 @@ nav ul li a:hover {
     margin-bottom: 20px;
 }
 
-.blue-box {
-    background-color: #007BFF;
-    padding: 40px;
-    border-radius: 8px;
-    color: white;
-    display: inline-block;
-}
-
 #section4 button {
     background-color: #1E90FF;
     border: none;
